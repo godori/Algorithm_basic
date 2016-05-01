@@ -1,5 +1,5 @@
 # Algorithm_basic 
-This is a for studying basic data structures and algorithms.
+For Studying and Refreshing Basic Data Structures and Algorithms.
 
 # Language study
 1. C++
