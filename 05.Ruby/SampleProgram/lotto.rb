@@ -22,8 +22,10 @@ def lot(win_array,num)
       # (arr1 & arr2)는 두 어레이가 공통으로 가지는 부분만 추출
     elsif (win_array & array).size == 5
       puts "2nd Prize!"
+    elsif (win_array & array).size == 4
+      puts "3rd Prize.."
     end
   end
 end
 
-lot([1,2,3,4,5,6],1000)
+lot([1,2,3,4,5,6],100)
