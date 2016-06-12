@@ -23,7 +23,7 @@ int main(){
   rose.age = 30;  // struct has public member as a default
   // no member fuction
 
-  // Animal calss
+  // Animal class
   animal cat;
   cat.eat();
   // cat.age = 2; // class has private member as a default
