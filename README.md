@@ -1,8 +1,8 @@
 # Algorithm_basic 
-For Studying and Refreshing Basic Data Structures and Algorithms.
+손코딩 , 스터디 잔여물
 
 # Language study
-1. C++
+1. C/C++
 2. JAVA
 3. JavaScript
 4. Python
