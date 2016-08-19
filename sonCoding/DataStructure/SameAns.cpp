@@ -49,8 +49,8 @@ int main(){
   r2.insert(&l3,&r3);
 
   // 두 노드의 가장 가까운 공통 조상을 찾는다.
-  cout<<"The Lowest Common Ancestor is : ";
-  cout<<findCommon(&root, &r2, &r3).val<<endl;
+  cout << "The Lowest Common Ancestor is : ";
+  cout << findCommon(&root, &r2, &r3).val << endl;
 
   return 0;
 }
